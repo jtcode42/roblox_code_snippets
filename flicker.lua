@@ -1,5 +1,5 @@
 --Made by jtrobloxian
---Originally used in my Dilapidated Hotel map in P2DS
+--Originally used in my Dilapidated Hotel map in an unnamed game
 --Light flickers on and off again randomly
 
 local sp=script.Parent
