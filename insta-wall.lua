@@ -1,0 +1,1 @@
+local touchy=script.Parent
