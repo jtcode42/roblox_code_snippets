@@ -1,5 +1,7 @@
 
 
 function buildAwall(touchy)
-  sp = game.Workspace.WallPart
+  local sp = game.Workspace.WallPart
 end
+
+WallPart.touched:connect(buildAWall
