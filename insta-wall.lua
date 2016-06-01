@@ -1,1 +1,5 @@
-local touchy=script.Parent
+
+
+function buildAwall(touchy)
+  sp = game.Workspace.WallPart
+end
